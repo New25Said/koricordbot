@@ -1,3 +1,4 @@
+```js
 import { Client, GatewayIntentBits } from "discord.js";
 import http from "http";
 
